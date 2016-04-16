@@ -1,5 +1,5 @@
 body {
-	background-color: #BFD6E9;
+	background-color: gray;
 	font-family: Verdana, Arial, sans-serif;
 	color: #000000;
 	text-align: center;
@@ -25,9 +25,22 @@ a {
 }
 
 img {
-	border: 1px solid white;
+	border: 1px solid white; 
 	border-radius: 50px;
 
 }
 
+
+#contact ul {
+       margin-right: auto;
+       margin-left: auto;
+   }
+
+ #contact ul li {
+      float: center;
+      background-color: #333;
+      color: #fff;
+      padding: 15px;
+      margin: 10px;
+     }
 
