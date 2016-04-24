@@ -6,6 +6,11 @@ body {
 	
 }
 
+p{
+	font-family: Arial;
+	font-size: 14px;
+}
+
 h1 {
 	font-family: Verdana, Arial, sans-serif;
 	font-style: normal;
@@ -31,16 +36,17 @@ img {
 }
 
 
-#contact ul {
+/*#contact ul {
        margin-right: auto;
        margin-left: auto;
    }
 
- #contact ul li {
+ /*#contact ul li {
       float: center;
       background-color: #333;
       color: #fff;
       padding: 15px;
       margin: 10px;
-     }
+      list-style: none;
+     } */
 
